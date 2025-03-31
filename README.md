@@ -44,3 +44,16 @@ The goal is to apply federated learning techniques to:
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
+
+2. Install required packages:
+
+pip install -r requirements.txt
+
+3. Launch the notebook:
+
+jupyter notebook
+
+4. Open Assignment_3_FLDesignPrinciple.ipynb and run all cells in order.
+
+
+
