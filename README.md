@@ -39,21 +39,19 @@ The goal is to apply federated learning techniques to:
 
 ## 🚀 How to Run
 
-1. Clone the repository:
-
 ```bash
+# 1. Clone the repository
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 
-2. Install required packages:
-
+# 2. Install required packages
 pip install -r requirements.txt
 
-3. Launch the notebook:
-
+# 3. Launch Jupyter Notebook
 jupyter notebook
 
-4. Open Assignment_3_FLDesignPrinciple.ipynb and run all cells in order.
+# 4. Open the notebook and run all cells
+# Open 'Assignment_3_FLDesignPrinciple.ipynb' and execute cells in order
 
 
 
